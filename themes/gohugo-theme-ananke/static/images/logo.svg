@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg1775"
+   width="100"
+   height="24"
+   viewBox="0 0 100 24"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata1781">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1779" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1871"
+     inkscape:window-height="1012"
+     id="namedview1777"
+     showgrid="false"
+     inkscape:zoom="3.1008903"
+     inkscape:cx="-36.730343"
+     inkscape:cy="66.257496"
+     inkscape:window-x="1969"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2328"
+     inkscape:snap-text-baseline="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2970" />
+  </sodipodi:namedview>
+  <g
+     id="g2328"
+     transform="translate(0.08315898,-0.02749125)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="16.68622"
+       y="10.966726"
+       id="text2962"><tspan
+         sodipodi:role="line"
+         id="tspan2960"
+         x="16.68622"
+         y="46.357353"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.65562057px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7f2a;fill-opacity:1;stroke:none;stroke-width:1.26639044"
+       x="32.288769"
+       y="28.036209"
+       id="text2966"
+       transform="scale(1.1937803,0.83767507)"><tspan
+         sodipodi:role="line"
+         id="tspan2964"
+         x="32.307762"
+         y="28.036209"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.14746475px;line-height:0;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0.03799172px;writing-mode:lr-tb;text-anchor:middle;fill:#ff7f2a;stroke-width:1.26639044"
+         dx="17.932091">MMS</tspan></text>
+  </g>
+</svg>
