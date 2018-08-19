@@ -1,8 +1,9 @@
 ---
-title: Contact
+title: Contactez
+weight: 3
 description: We'd love to hear from you
 type: page
-
+menu: "main"
 
 ---
 

@@ -8,8 +8,8 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 
-#SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+SectionPagesMenu = "main"
+Paginate = 1 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -41,45 +41,11 @@ enableRobotsTXT = true
   languageName = "English"
   contentDir = "content/en"
 
-    [[languages.en.menu.main]]
-    url    = "/about"
-    name   = "About"
-    weight = 1
-
-    [[languages.en.menu.main]]
-    url    = "/post"
-    name   = "Articles"
-    weight = 2
-
-    [[languages.en.menu.main]]
-    url    = "/contact"
-    name   = "Contact"
-    weight = 3
-    
-
-
 [languages.fr]
   title = "MMS"
   weight = 2
   languageName = "Français"
   contentDir = "content/fr"
-
-    [[languages.fr.menu.main]]
-    url    = "/about"
-    name   = "Sur"
-    weight = 1
-
-    [[languages.fr.menu.main]]
-    url    = "/post"
-    name   = "Des articles"
-    weight = 2
-
-    [[languages.fr.menu.main]]
-    url    = "/contact"
-    name   = "Contactez"
-    weight = 3
-  
-
 
 [languages.es]
   title = "MMS"
@@ -87,18 +53,4 @@ enableRobotsTXT = true
   languageName = "Español"
   contentDir = "content/es"
 
-    [[languages.es.menu.main]]
-    url    = "/about"
-    name   = "Acerca"
-    weight = 1
-
-    [[languages.es.menu.main]]
-    url    = "/post"
-    name   = "Artículos"
-    weight = 2
-
-    [[languages.es.menu.main]]
-    url    = "/contact"
-    name   = "Contactar"
-    weight = 3
-       
+   
