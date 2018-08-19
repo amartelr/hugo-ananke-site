@@ -1,0 +1,104 @@
+title = "Notre-Dame de Paris"
+baseURL = "/"
+languageCode = "en-us"
+theme = "gohugo-theme-ananke"
+
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+#SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  twitter = "https://twitter.com/GoHugoIO"
+  instagram = ""
+  youtube = ""
+  github = ""
+  linkedin = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
+
+
+
+[languages]
+[languages.en]
+  title = "My Company Website"
+  weight = 1
+  languageName = "English"
+  contentDir = "content/en"
+
+    [[languages.en.menu.main]]
+    url    = "/about"
+    name   = "About"
+    weight = 1
+
+    [[languages.en.menu.main]]
+    url    = "/post"
+    name   = "Articles"
+    weight = 2
+
+    [[languages.en.menu.main]]
+    url    = "/contact"
+    name   = "Contact"
+    weight = 3
+    
+
+
+[languages.fr]
+  title = "Mon site Web d'entreprise"
+  weight = 2
+  languageName = "Français"
+  contentDir = "content/fr"
+
+    [[languages.fr.menu.main]]
+    url    = "/about"
+    name   = "Sur"
+    weight = 1
+
+    [[languages.fr.menu.main]]
+    url    = "/post"
+    name   = "Des articles"
+    weight = 2
+
+    [[languages.fr.menu.main]]
+    url    = "/contact"
+    name   = "Contactez"
+    weight = 3
+  
+
+
+[languages.es]
+  title = "Sitio web de mi empresa"
+  weight = 3
+  languageName = "Español"
+  contentDir = "content/es"
+
+    [[languages.es.menu.main]]
+    url    = "/about"
+    name   = "Acerca"
+    weight = 1
+
+    [[languages.es.menu.main]]
+    url    = "/post"
+    name   = "Artículos"
+    weight = 2
+
+    [[languages.es.menu.main]]
+    url    = "/contact"
+    name   = "Contactar"
+    weight = 3
+       
