@@ -1,6 +1,8 @@
 ---
 title: "Mauritania Mining Services"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: "Our focus is on applying the expertise of our employees to attractive projects while pledging to deliver leading technology and overriding commitment to safe practices."
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+# Why Us?
+
+By providing **outstanding** quality, service, cleanliness, safety, customer care and added value to all its projects and operations, so that our customers feel complete satisfaction in every project we manage worldwide.
