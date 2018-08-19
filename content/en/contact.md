@@ -1,6 +1,7 @@
 ---
 title: Contact
 weight: 3
+featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: We'd love to hear from you
 type: page
 menu: "main"
