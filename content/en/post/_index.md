@@ -1,8 +1,7 @@
 ---
-title: "Articles"
+title: "Services"
 weight: 2
-description: We'd love to hear from you
+description: "We offer a complete facility management for a wide range of companies operating in different industries: Oil and Gas, mining, construction, healthcare, education, sports or leisure."
 
 date: 2017-03-02T12:00:00-05:00
 ---
-Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
