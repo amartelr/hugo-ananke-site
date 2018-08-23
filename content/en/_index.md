@@ -1,6 +1,6 @@
 ---
 title: "Mauritania Mining Services"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: '/images/home.jpg'
 description: "Our focus is on applying the expertise of our employees to attractive projects while pledging to deliver leading technology and overriding commitment to safe practices."
 ---
 # Why Us?

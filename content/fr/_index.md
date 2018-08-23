@@ -1,6 +1,6 @@
 ---
 title: "Mauritania Mining Services"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: '/images/home.jpg'
 description: "Nous mettons l'accent sur l'application de l'expertise de nos employés à des projets attrayants tout en nous engageant à fournir une technologie de pointe et un engagement absolu envers des pratiques sûres."
 ---
 # Pourquoi nous?
