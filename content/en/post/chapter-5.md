@@ -2,7 +2,7 @@
 date: 2017-04-13T11:15:58-04:00
 weight: 5
 description: "We organizes events and celebrations for industries of different sectors operating in several countries."
-featured_image: "/images/esmeralda.jpg"
+featured_image: "/images/vips.jpg"
 tags: ["services"]
 title: "VIP Events"
 ---

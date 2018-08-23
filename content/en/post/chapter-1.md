@@ -11,8 +11,6 @@ We offer the best quality products at competitive prices and we work with highly
 
 {{< figure src="/images/post/catering01.jpg" title="Quality products and services" >}}
 
-
-
 The nutrition of our clients is essential and in this sense, we offer balanced menus following rigorous quality procedures to guarantee your wellbeing.
 
 We are a pioneer company in facility management for the oil industry in Spain and Equatorial Guinea. We started in the Casablanca field
