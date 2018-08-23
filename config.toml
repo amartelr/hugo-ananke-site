@@ -19,7 +19,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "/images/favicon.ico"
+  favicon = "images/favicon.ico"
   logo = "/images/logo.svg"
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
