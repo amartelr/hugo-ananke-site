@@ -5,4 +5,4 @@ description: "MMS is a facility services company and leader in quality managemen
 featured_image: ''
 
 ---
-{{< figure src="/images/remote_site.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/blog-index.jpg" title="" >}}
