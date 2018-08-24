@@ -8,7 +8,3 @@ title: "Sport & Leisure"
 ---
 We also collaborate directly with active specialists currently working in different national teams and the world’s best clubs. Our versatility and adaptability allow us to interact equally in the private business sector as in professional football clubs, national associations, public institutions and NGOs around the world.
 
-
-
-
-

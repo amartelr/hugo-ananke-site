@@ -1,5 +1,4 @@
 ---
-date: 2017-04-09T10:58:08-04:00
 description: "Mejorar la vida de los estudiantes para crear un futuro mejor"
 weight: 4
 featured_image: "/images/education.jpg"

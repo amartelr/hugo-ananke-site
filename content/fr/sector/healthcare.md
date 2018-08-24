@@ -1,5 +1,4 @@
 ---
-date: 2017-04-09T10:58:08-04:00
 description: "MMS est un leader mondial dans les services de gestion des installations dans le secteur de la santé."
 weight: 3
 featured_image: "/images/healthcare.jpg"

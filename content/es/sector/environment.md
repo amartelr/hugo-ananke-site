@@ -1,5 +1,4 @@
 ---
-date: 2017-04-09T10:58:08-04:00
 description: "Nuestra tecnología de tratamiento de residuos es respetuosa con el medio ambiente"
 weight: 6
 featured_image: "/images/environment.jpg"

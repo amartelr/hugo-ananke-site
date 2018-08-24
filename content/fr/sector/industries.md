@@ -1,5 +1,4 @@
 ---
-date: 2017-04-09T10:58:08-04:00
 description: "Gestion des Installations, adapté à vos besoins"
 weight: 2
 featured_image: "/images/facility_management.jpg"

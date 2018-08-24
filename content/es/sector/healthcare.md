@@ -1,5 +1,4 @@
 ---
-date: 2017-04-09T10:58:08-04:00
 description: "MMS es líder en la gestión integral de instalaciones en el sector sanitario"
 weight: 3
 featured_image: "/images/healthcare.jpg"

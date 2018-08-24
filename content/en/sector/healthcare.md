@@ -1,5 +1,4 @@
 ---
-date: 2017-04-09T10:58:08-04:00
 description: "MMS is a global leader in facilities management services in the Healthcare sector"
 weight: 3
 featured_image: "/images/healthcare.jpg"
