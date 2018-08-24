@@ -1,6 +1,6 @@
 ---
 title: Contact
-weight: 4
+weight: 3
 featured_image: '/images/contact.jpg'
 description: We'd love to hear from you
 type: page

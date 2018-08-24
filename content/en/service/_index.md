@@ -1,6 +1,6 @@
 ---
 title: "Services"
-weight: 2
+weight: 1
 featured_image: '/images/services.jpg'
 description: "We offer a complete facility management for a wide range of companies operating in different industries."
 
