@@ -12,5 +12,3 @@ MMS provides services in educational centers and universities. Offering our know
 
 
 Regarding catering services, we provide varied and balanced diets which contribute to the students’ wellbeing, developing their physical and mental performance. An adequate nutrition at their age improves their development and provides healthy lifestyles creating a positive future.
-
-

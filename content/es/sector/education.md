@@ -1,16 +1,13 @@
 ---
 date: 2017-04-09T10:58:08-04:00
-description: "Improving students’ life, creating a better future"
+description: "Mejorar la vida de los estudiantes para crear un futuro mejor"
 weight: 4
 featured_image: "/images/education.jpg"
 tags: ["sectors"]
-title: "Education"
+title: "Educación"
 ---
-MMS provides services in educational centers and universities. Offering our know-how adapting to the institutions’ requirements to optimize the available resources and offer the optimum solution to guarantee an excellent service.
+MMS suministra todo tipo de servicios auxiliares en centros educativos y universidades, se adapta a las necesidades de cada centro para optimizar los recursos disponibles y ofrecer la solución óptima que garantice un excelente servicio.
 
 {{< figure src="/images/sectors/education01.jpg" title="" >}}
 
-
-Regarding catering services, we provide varied and balanced diets which contribute to the students’ wellbeing, developing their physical and mental performance. An adequate nutrition at their age improves their development and provides healthy lifestyles creating a positive future.
-
-
+En materia de restauración ofrecemos dietas específicas, nutritivas y variadas que contribuyen al desarrollo de los alumnos, para potenciar su rendimiento físico y mental. Una alimentación adecuada a cada edad, favorece el desarrollo y proporciona hábitos saludables para crear un futuro de bienestar.

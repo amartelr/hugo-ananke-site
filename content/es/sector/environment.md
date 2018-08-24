@@ -1,16 +1,13 @@
 ---
 date: 2017-04-09T10:58:08-04:00
-description: "MMS's waste treatment technology takes care of the environment"
+description: "Nuestra tecnología de tratamiento de residuos es respetuosa con el medio ambiente"
 weight: 6
 featured_image: "/images/environment.jpg"
 tags: ["sectors"]
-title: "Environment"
+title: "Medio Ambiente"
 ---
-Our HSE policies effectively form part of our DNA and they drive us on our daily activity. Caring for the environment is part of our business and life mission. We provide integrated Waste Management services and solutions, through unique and patented waste treatment technology that positions our group as a leading company worldwide in this sector. Our extensive experience and our constant investment in R+D, allow our group to excel in the numerous projects we are involved in, projects that range from managing waste in industries, camps, towns and cities, to even offering specific waste management solutions to the offshore sectors.
+Nuestra política medioambiental, de salud y seguridad forma parte de nuestro ADN y guía nuestra actividad diaria por eso el cuidado del medio ambiente forma parte de nuestro negocio y misión vital. A través de exclusiva tecnología patentada proporcionamos servicios y soluciones integrales para la gestión de residuos. Nuestra extensa experiencia y desarrollo constante en I+D, nos posiciona internacionalmente como compañía líder en el sector y nos permite llevar a cabo numerosos proyectos que abarcan la gestión de residuos en industrias, campamentos, municipios y ciudades, así como soluciones específicas para la industria marítima.
 
 {{< figure src="/images/sectors/environment01.jpg" title="" >}}
 
-Protecting our environment and people´s wellbeing through innovative waste treatment, recycling and cleaning techniques is also one of our main characteristics. We are involved in projects at governmental levels, where we have been called in to study and give solutions to the waste contamination problems that many countries suffer at landfills levels. We are able to positively resolve such problems by the deployment of our technology and services, not only creating a final solution to the country itself, but allowing a new potential industry to grow that will take care of the environment and people.
-
-
-
+Protegemos el medio ambiente y el bienestar de las personas a través de novedosos métodos de tratamiento de residuos, reciclaje y limpieza. Trabajamos en proyectos a nivel gubernamental, realizamos estudios y ofrecemos soluciones frente al problema de los residuos y la contaminación generada en vertederos. Somos capaces de resolver positivamente el problema de los residuos en cuestión y ofrecer al país una solución definitiva, al mismo tiempo que apoyamos y permitimos el crecimiento de una industria potencial que se encargará del cuidado del medio ambiente y en consecuencia de las personas.

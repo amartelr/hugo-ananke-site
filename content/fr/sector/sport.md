@@ -1,14 +1,9 @@
 ---
 date: 2017-04-09T10:58:08-04:00
-description: "Our workforce is made up of a multidisciplinary team of internationally renowned expert of sports professionals"
+description: "Notre capital humain est formé par une équipe pluridisciplinaire d'experts sportifs professionnels"
 weight: 5
 featured_image: "/images/sports.jpg"
 tags: ["sectors"]
-title: "Sport & Leisure"
+title: "Sport & Loisirs"
 ---
-We also collaborate directly with active specialists currently working in different national teams and the world’s best clubs. Our versatility and adaptability allow us to interact equally in the private business sector as in professional football clubs, national associations, public institutions and NGOs around the world.
-
-
-
-
-
+Grande expérience dans le secteur de la restauration fournit les connaissances nécessaires pour améliorer le potentiel physique des athlètes, parce que leur prise en charge nutritionnelle et mode de vie sont des domaines fondamentaux pour améliorer leur développement.

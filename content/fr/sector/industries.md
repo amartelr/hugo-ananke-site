@@ -1,17 +1,14 @@
 ---
 date: 2017-04-09T10:58:08-04:00
-description: "Facility Management, focusing in your necessities"
+description: "Gestion des Installations, adapté à vos besoins"
 weight: 2
 featured_image: "/images/facility_management.jpg"
 tags: ["sectors"]
-title: "Corporate & Industries"
+title: "Entreprises & Industries"
 ---
 
-MMS on an extended experience in the outsourcing services market and offers companies the most adequate and competitive solutions to promote your activities and improve your results.
+- MMS sur une longue expérience dans le marché des services de sous-traitance et offre aux entreprises les solutions les plus adéquates et compétitives pour promouvoir vos activités et améliorer vos résultats.
 
+- MMS a créé "la solution globale" vers l'unification de tous les services pour le client. La gestion et le développement de vos besoins par nos équipes améliorent votre rentabilité et promouvent votre capacité opérationnelle.
 
-MMS has created “the global solution” towards the unification of all the services that the client needs through a unique provider. The management and development of your necessities by our teams improves your profitability and promote your operational capacity.
-
-We can count on a long trajectory in the supply of multiple services in factories, investigation centers, oil platforms, power stations, camps and all types of national and international corporations.
-
-
+- Nous pouvons compter sur une longue trajectoire dans la fourniture de services multiples dans les usines, centres de recherche, plates-formes pétrolières, des centrales électriques, des camps et tous les types de sociétés nationales et internationales.

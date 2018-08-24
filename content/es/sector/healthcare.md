@@ -1,16 +1,15 @@
 ---
 date: 2017-04-09T10:58:08-04:00
-description: "MMS is a global leader in facilities management services in the Healthcare sector"
+description: "MMS es líder en la gestión integral de instalaciones en el sector sanitario"
 weight: 3
 featured_image: "/images/healthcare.jpg"
 tags: ["sectors"]
-title: "Healthcare"
+title: "Sanidad"
 ---
-We provide cleaning and sanitizing solutions at the highest quality levels, sourcing the most effective products from around the world and delivering them to any geographical location to exceed our customers’ specifications.
+- Proporcionamos soluciones de limpieza e higienización bajo un exhaustivo control que garantiza la seguridad. Buscamos los productos más efectivos alrededor del mundo y los distribuimos en cualquier localización geográfica con el fin de alcanzar los requisitos de nuestros clientes.
 
-The care of patients, healthcare workers and visitors is our purpose in offering a clean infectious free environment and for this reason our EHS Department is constantly training our employees and researching the latest cleaning methods, products and services.
+- Nuestro propósito radica en el cuidado de los pacientes, del personal sanitario y de los visitantes, ofreciéndoles un ambiente libre de infecciones. Por esta razón, nuestro departamento de Medio Ambiente, Seguridad y Salud imparte cursos de formación periódica a nuestros empleados y busca los métodos de limpieza, productos y servicios más efectivos.
 
-Within our already existing infection prevention model, our latest research is moving towards a high-tech system including:
-
-- No touch Room disinfection.
-- Ultra Violet and Hydrogen Peroxide Vapor Technologies.
+- Además de cumplir con los existentes estándares de prevención de infecciones, nuestro plan integra las técnicas más avanzadas en desinfección de salas a través de tecnología ultravioleta y vapor de peróxido de hidrógeno.
+    - Sistemas de Desinfección Automatizada.
+    - UlTecnología ultravioleta y vapor de peróxido de hidrógeno.
