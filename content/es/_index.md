@@ -3,8 +3,16 @@ title: "Mauritania Mining Services"
 featured_image: '/images/home.jpg'
 description: "Nos enfocamos en aplicar la experiencia de nuestros empleados a proyectos atractivos mientras nos comprometemos a brindar tecnología líder y un compromiso primordial con las prácticas seguras."
 ---
-# ¿Porque nosotros?
+# Líderes en calidad
 
-Brindando excelente **calidad, servicio, limpieza, seguridad, atención al cliente** y valor agregado a todos sus proyectos y operaciones, para que nuestros clientes sientan una completa satisfacción en cada proyecto que administramos en todo el mundo.
+> MMS es una compañía internacional líder en **gestión de servicios** de máxima calidad. Cuidar al cliente y aportar valor en cada proyecto es nuestro objetivo, trabajar con la máxima seguridad para garantizar la satisfacción en todas las operaciones que dirigimos
+en cualquier lugar del mundo.
 
-MMS es una compañía de servicios de instalaciones y líder en gestión de calidad. Nuestro objetivo es apoyar a nuestros clientes, agregando valor en cada proyecto y trabajando con la máxima seguridad para garantizar la satisfacción en cada operación que administramos en todo el mundo.
+> Hemos establecido plataformas logísticas a nivel internacional para proporcionar productos de máxima calidad y seguridad desde los mejores proveedores hasta nuestros clientes.
+
+# Total  garantía de satisfacción
+
+> A través de nuestros recursos logísticos formados por una amplia cadena de oficinas y almacenes;  nuestro experimentado equipo integra las operaciones internacionales junto a la distribución local para asistir a nuestros clientes con total garantía de satisfacción.
+
+> Hemos llevado a cabo la gestión completa de instalaciones, catering y servicios hoteleros para numerosos clientes, desarrollando una de nuestras principales líneas de negocio en el sector del petróleo y el gas, en unidades fuera de costa y en campamentos. Hemos proporcionado servicios para reconocidas compañías petrolíferas, acompañándoles en cada proyecto cuando lo han necesitado, logrando complacer todos sus requisitos.
+
