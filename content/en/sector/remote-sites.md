@@ -9,7 +9,7 @@ title: "Remote Sites"
 
 Through the experience gained serving the Oil & Gas, mining or construction industries is a specialist in anticipating the client’ s needs, offering them solutions that will improve their quality of life so they feel at home when they are working in remote locations, hundreds of miles away or in areas with difficult access.
 
-<h2>The client's satisfaction is our highest recognition.</h2>
+**The client's satisfaction is our highest recognition.**
 
 The safety and continuous support of our clients is essential to offer an excellent service because the people, who develop their activities in remote areas, depend on our operational capacity. MMS is conscious of this and is strongly committed to each project because the clients’ satisfaction is our highest recognition.
 
