@@ -1,16 +1,15 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 weight: 7
-description: "We manages facilities maintenance to ensure the correct development of the daily activity of our customers."
+description: "MMS gestiona el mantenimiento integro de instalaciones para facilitar el correcto desarrollo de la actividad diaria de nuestros clientes"
 featured_image: "/images/maintenance.jpg"
 tags: ["services"]
-title: "Maintenance"
+title: "Mantenimiento"
 ---
-We provide effective solutions to guarantee safety and profitability needed in each operation. 
+Ofrecemos soluciones efectivas que garantizan la seguridad y el óptimo rendimiento necesario en cada operación.
 
-Our technicians are in charge of regular inspections and maintenance works in different areas. We also carry out analysis of facilities and equipment to detect possible incidents and improve energy efficiency.
+Nuestro equipo técnico se encarga de la revisión periódica y realización de trabajos de mantenimiento en diversas áreas. Así mismo, se realizan análisis preventivos en instalaciones y equipamientos para detectar posibles incidencias y mejorar el rendimiento energético.
 
+{{< figure src="/images/post/maintenance01.jpg" title="" >}}
 
-{{< figure src="/images/post/maintenance01.jpg" title="We protects and respects the environment in every operation following international standards." >}}
-
-We are a recognized leading company on facility management and we are very proud of our experienced staff and international guarantees that support our company.
+Somos líderes en la gestión de servicios y contamos con profesionales experimentados y con garantías internacionales que nos avalan.

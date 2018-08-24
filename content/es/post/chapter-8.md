@@ -1,14 +1,15 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 weight: 8
-description: "We adds value to its projects based on the experience gained offering services around the world accomplishing the most demanding standards and offering maximum guarantees."
-featured_image: "/images/maintenance.jpg"
+description: "MMS añade valor a sus proyectos basados en la experiencia adquirida ofreciendo servicios en todo el mundo cumpliendo con los estándares más exigentes"
+featured_image: "/images/crewing.jpg"
 tags: ["services"]
-title: "Crewing & Manpower"
+title: "Recursos humanos y gestión de tripulaciones"
 ---
-The operational capacity of MMS allow us to react accurately and making appropriate modifications in any circumstances or geographical location, calculating every detail to apply changes of destination, operation, region or project.
+Contamos con una sólida infraestructura de oficinas y representantes internacionales, lo que nos permite la gestión de personal y tripulaciones en cualquier localización geográfica para cubrir los distintos puestos que nuestros clientes requieren.
 
-{{< figure src="/images/post/crewing01.jpg" title="We have a comprehensive database and always works with the best professionals." >}}
+{{< figure src="/images/post/crewing01.jpg" title="MMS dispone de una extensa base de datos y trabaja con los mejores profesionales." >}}
 
-Our team meets their clients’ necessities exceeding its expectations managing thoroughly and efficiently to guarantee the excellent work of the operations accomplishing the most satisfying results.
+La capacidad operativa de MMS nos permite reaccionar de manera precisa y realizar las modificaciones más adecuadas en cualquier circunstancia o localización geográfica, calculando todos los detalles para realizar cambios de destino, operación, región o proyecto.
 
+El equipo de MMS cubre las necesidades de sus clientes superando sus expectativas pues llevamos a cabo una gestión exhaustiva y eficiente para garantizar el excelente funcionamiento de las operaciones y obtener los resultados más satisfactorios.

@@ -1,7 +1,7 @@
 ---
 date: 2017-04-12T11:14:48-04:00
 weight: 4
-description: "We follows exhaustive procedures ensuring maximum hygiene and efficacy in each operation."
+description: "MMS follows exhaustive procedures ensuring maximum hygiene and efficacy in each operation."
 featured_image: "/images/laundry.jpg"
 tags: ["services"]
 title: "Laundry & Janitorial"

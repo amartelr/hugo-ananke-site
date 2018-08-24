@@ -1,18 +1,17 @@
 ---
 date: 2017-04-13T11:15:58-04:00
 weight: 5
-description: "We organizes events and celebrations for industries of different sectors operating in several countries."
+description: "MMS organiza actos y celebraciones para industrias que pertenecen a diversos sectores y trabajan en varios países"
 featured_image: "/images/vips.jpg"
 tags: ["services"]
-title: "VIP Events"
+title: "Eventos VIP"
 ---
 
-Among the activities coordinated are included: corporate seminars, conferences, sports and leisure activities, as well as any event that our customers might need.
+Entre las actividades que se coordinan se incluyen jornadas corporativas, conferencias, actividades deportivas y de ocio, así como cualquier evento que nuestros clientes necesiten.
 
-{{< figure src="/images/post/vip01.jpg" title="Exclusivity, management skills and personalized assistance" >}}
+{{< figure src="/images/post/vip01.jpg" title="Exclusividad, capacidad de gestión y atención personalizada" >}}
 
-The distinction managing services highlights our professionalism, discretion and elegance, because exceeding our customers' satisfaction and expectations is the best reward for our company.
+La distinción de nuestros servicios destaca por la profesionalidad, discreción y elegancia con la que se gestionan, pues superar las expectativas de nuestros clientes es el mejor reconocimiento para la compañía.
 
-The international experience of MMS adds value to each project and ensures the right perspective allowing us to
-exceed expected results.
+La experiencia internacional de MMS, aporta un valor añadido a cada proyecto y garantiza una correcta perspectiva que permite superar los resultados esperados.
 

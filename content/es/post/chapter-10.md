@@ -1,15 +1,15 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 weight: 10
-description: "MMS has created a network-chain of offices and warehouses in order to integrate a solid logistic platform coordinating international operations with local distribution."
+description: "MMS ha creado una red internacional de oficinas y almacenes que configuran una sólida plataforma logística para integrar las operaciones internacionales con la distribución local."
 featured_image: "/images/logistic.jpg"
 tags: ["services"]
-title: "Transport & Logistic"
+title: "Transporte y Logística"
 ---
-Through the Supply Chain Management (SCM) and Quality of Service, we meet our strong commitment of service and innovation. The operational control allows we to provide our customers worldwide with service wherever they need and request.
+A través de la "Gestión de Cadenas de Suministros (GCS) y Calidad de Servicio” proporcionamos nuestro firme propósito de compromiso, servicio e innovación. El control operativo permite que MMS ofrezca a sus clientes todo lo que necesiten y soliciten en cualquier lugar del mundo.
 
-{{< figure src="/images/post/transport01.jpg" title="One of the largest fleets of special 10' containers for the offshore industry and remote areas." >}}
+{{< figure src="/images/post/transport01.jpg" title="Disponemos de una de las mayores flotas de contenedores especiales de 10’ para los sectores fuera de costa y zonas remotas." >}}
 
-Our logistic support team directly communicates with operational units and through our experiences dealing shoulder-to-shoulder with our customers, and having one of the largest fleets of special 10' containers for the offshore industry and remote areas, we enjoy an ideal location to anticipate and offer support to any customer's request.
+Nuestro equipo de soporte logístico se comunica directamente con las unidades operativas y a través de nuestra experiencia en el trato directo con los clientes, así como gestionando nuestra propia flota de contenedores especiales de 10’ para los sectores fuera de costa y áreas remotas, nos situamos en una posición idónea para anticipar y ofrecer soporte ante cualquier solicitud.
 
-Ever since its establishment, MMS has developed trade services internationally, combining traditional and multimodal international transport, offering services such as: customs clearance, cargo logistic, warehouse management and supply delivery.
+Desde su fundación, MMS, ha desarrollado servicios comerciales a nivel internacional, utilizando transporte tradicional y multimodal para ofrecer sus servicios: despacho aduanero, logística de carga, gestión de almacén y distribución de suministros.

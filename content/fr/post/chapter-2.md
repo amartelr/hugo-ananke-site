@@ -1,16 +1,16 @@
 ---
 date: 2017-04-10T11:00:59-04:00
 weight: 2
-description: "We offer industrializing construction services providing their customers with comprehensive services, helping them to create and develop their projects."
+description: "Nous offrons des services de construction industrialisés offrant à ses clients des services intégraux."
 featured_image: "/images/modular-building.jpg"
 tags: ["services"]
-title: "Modular Camp Building"
+title: "Le renforcement du camp modulaire"
 ---
 
- This construction style guarantee the flexibility and versatility needed to start an operation in a short term adapting to any activity and worldwide location.
+MMS offre des services de construction d'industrialisation à leurs clientsainsi que des services complets, en les aidant à créer et à développer leurs projets. Ce style de construction garantit la flexibilité et la polyvalence nécessaire pour démarrer une operation à court terme et s’ adapte à toute activité et emplacement dans le monde.
 
-{{< figure src="/images/post/modular_building01.jpg" title="Quality products and services" >}}
+{{< figure src="/images/post/modular_building01.jpg" title="Le renforcement du camp modulaire" >}}
 
-Constant innovation in this engineering style and the utilization of the most innovative materials guarantee the entire process, from structures’ manufacturing to complete assembly and putting into operation the requested facilities.
+L'innovation constante dans ce style d'ingénierie et l'utilisation des matériaux les plus innovants garantissent l'ensemble du processus: la fabrication de structures, l'assemblage et la mise en service des installations demandées.
 
-Modular constructions can be adapted economically, quickly and efficiently during the construction process and the company’s facilities can be redistribute or transferred to a new location. The ideal solution to develop your projects over the possibility of adapting your facilities at any time.
+Les constructions modulaires peuvent être adaptés sur le plan économique, rapide et efficace pendant le processus de construction et les installations de l'entreprise peuvent être redistribuées ou transférées vers un nouvel emplacement. La solution idéale pour développer vos projets sur la possibilité d'adapter vos installations à tout moment.

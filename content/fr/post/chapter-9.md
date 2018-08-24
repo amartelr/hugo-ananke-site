@@ -1,12 +1,12 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 weight: 9
-description: "In MMS we are conscious of the importance of having a wide vehicle network to provide transport services to our clients and goods at any time and site."
+description: "Le SMM dispose d'un vaste réseau de véhicules pour la fourniture de services de transport pour nos clients et pour le transport de marchandises."
 featured_image: "/images/vehicle.jpg"
 tags: ["services"]
-title: "Vehicle Fleet Management"
+title: "Gestion de parc de véhicules"
 ---
-We also offer the most varied range of solutions for vehicle fleet management, adapting to your requirements to develop different works, events and circumstances.
+Nous offrons également la gamme la plus esti de solutions de estión de flotte de véhicules, tout en nous adaptant à vos besoins pour développer différents travaux, événements et circonstances.
 
-{{< figure src="/images/post/vehicle01.jpg" title="We manage any concept of mobility through prompt, efficient and tailored solutions for each customer's needs." >}}
+{{< figure src="/images/post/vehicle01.jpg" title="Nous gérons tout concept de la mobilité grâce à des solutions rapides, efficaces et sur mesure pour les besoins de chaque client." >}}
 

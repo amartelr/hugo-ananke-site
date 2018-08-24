@@ -1,16 +1,16 @@
 ---
 date: 2017-04-10T11:00:59-04:00
 weight: 2
-description: "We offer industrializing construction services providing their customers with comprehensive services, helping them to create and develop their projects."
+description: "Ofrecemos servicios de construcción industrializados proporcionando a sus clientes servicios integrales"
 featured_image: "/images/modular-building.jpg"
 tags: ["services"]
-title: "Modular Camp Building"
+title: "Construcción Modular"
 ---
 
- This construction style guarantee the flexibility and versatility needed to start an operation in a short term adapting to any activity and worldwide location.
+MMS ofrece servicios de construcción industrializada para proporcionar a sus clientes un completo servicio en la creación y desarrollo de sus proyectos. Este modelo de construcción garantiza la versatilidad y flexibilidad necesaria para desplegar una operativa a corto plazo y se adapta a cualquier actividad y localización.
 
-{{< figure src="/images/post/modular_building01.jpg" title="Quality products and services" >}}
+{{< figure src="/images/post/modular_building01.jpg" title="Construcción Modular" >}}
 
-Constant innovation in this engineering style and the utilization of the most innovative materials guarantee the entire process, from structures’ manufacturing to complete assembly and putting into operation the requested facilities.
+La innovación constante en este estilo de ingeniería y el uso de los materiales más vanguardistas garantizan todo el proceso, desde la fabricación de las distintas estructuras hasta su completo ensamble y puesta en funcionamiento de las instalaciones demandadas.
 
-Modular constructions can be adapted economically, quickly and efficiently during the construction process and the company’s facilities can be redistribute or transferred to a new location. The ideal solution to develop your projects over the possibility of adapting your facilities at any time.
+Las construcciones modulares permiten adaptar de manera económica, rápida y eficaz el proceso constructivo y redistribuir sus instalaciones o trasladarlas a una nueva ubicación. La solución idónea para que sus proyectos evolucionen con la posibilidad de adecuar sus instalaciones en todo momento.

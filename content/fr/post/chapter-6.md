@@ -1,13 +1,12 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 weight: 6
-description: "Ours technicians manage the integral treatment of green areas in different environments. "
+description: "Nos techniciens gèrent le traitement intégral des zones vertes dans différents espaces"
 featured_image: "/images/environment.jpg"
 tags: ["services"]
-title: "Landscaping & Pest Control"
+title: "Aménagement et lutte antiparasitaire"
 ---
-Our range of services include creation, maintenance, conservation and cleanliness of gardens, as well as pest control and fumigations.
+Notre gamme de services inclut la création, l'entretien, la conservation et la propreté des jardins, ainsi que la lutte antiparasitaire et les fumigations.
 
-
-{{< figure src="/images/post/landscaping01.jpg" title="We protects and respects the environment in every operation following international standards." >}}
+{{< figure src="/images/post/landscaping01.jpg" title="MMS protège et respecte l'environnement dans chaque opération en suivant les normes internationales." >}}
 

@@ -6,7 +6,7 @@ featured_image: "/images/logistic.jpg"
 tags: ["services"]
 title: "Transport & Logistic"
 ---
-Through the Supply Chain Management (SCM) and Quality of Service, we meet our strong commitment of service and innovation. The operational control allows we to provide our customers worldwide with service wherever they need and request.
+Through the Supply Chain Management (SCM) and Quality of Service, we meet our strong commitment of service and innovation. The operational control allows MMS to provide our customers worldwide with service wherever they need and request.
 
 {{< figure src="/images/post/transport01.jpg" title="One of the largest fleets of special 10' containers for the offshore industry and remote areas." >}}
 

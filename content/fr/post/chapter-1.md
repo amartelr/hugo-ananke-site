@@ -1,20 +1,16 @@
 ---
 date: 2017-04-09T10:58:08-04:00
 weight: 1
-description: "We provides catering and hotel services for a wide range of sectors in different places around the world."
+description: "MMS fournit des services de restauration et l'hôtellerie pour un large éventail de secteurs dans différents endroits du monde."
 featured_image: "/images/catering.jpg"
 tags: ["services"]
-title: "Catering & Housekeeping"
+title: "Restauration, Hôtel & Ménage"
 ---
 
-We offer the best quality products at competitive prices and we work with highly qualified professionals. Our capacity of adapting our services to each customer’s requirements and satisfying the company's necessities in record time is key to the correct execution of a project.
+Nous offrons les meilleurs produits de qualité à des prix compétitifs et nous travaillons avec des professionnels hautement qualifiés. Notre capacité d'adapter nos services aux besoins de chaque client et de satisfaire les besoins de l'entreprise en un temps record est la clé de la bonne exécution d'un projet.
 
-{{< figure src="/images/post/catering01.jpg" title="Quality products and services" >}}
+{{< figure src="/images/post/catering01.jpg" title="Produits et services de qualité" >}}
 
-The nutrition of our clients is essential and in this sense, we offer balanced menus following rigorous quality procedures to guarantee your wellbeing.
+La nutrition de nos clients est essentiel et dans ce sens, nous vous proposons des menus équilibrés suivantes des procédures de qualité rigoureuses pour garantir votre bien-être.
 
-We are a pioneer company in facility management for the oil industry in Spain and Equatorial Guinea. We started in the Casablanca field
-(Tarragona-Spain), since then we have developed numerous capabilities which allow us to undertake and complete all supply chain facets
-and services, from the supply source to our customer’s service delivery.
-
-We work for the most prestigious oil and gas companies in different countries, wherever our clients need our services.
+Nous travaillons pour les plus prestigieuses compagnies pétrolières et gazières dans différents pays, partout où nos clients ont besoin de nos services.

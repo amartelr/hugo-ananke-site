@@ -1,7 +1,7 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 weight: 9
-description: "In MMS we are conscious of the importance of having a wide vehicle network to provide transport services to our clients and goods at any time and site."
+description: "MMS has a wide network of vehicles for the provision of transportation services for our clients as well as for the transport of goods."
 featured_image: "/images/vehicle.jpg"
 tags: ["services"]
 title: "Vehicle Fleet Management"

@@ -1,17 +1,18 @@
 ---
 date: 2017-04-11T11:13:32-04:00
 weight: 3
-description: "We offer transport, storage, treatment and recovery of waste systems, as well as reuse of raw materials and final disposal of waste by controlled and safe methods. Also, we provide a wide range of industrial cleaning services with high added value"
+description: "Ofrecemos servicios de transporte, almacenamiento, tratamiento y valorización de residuos"
 featured_image: "/images/waste_management.jpg"
 tags: ["services"]
-title: "Waste Management"
+title: "Gestión de residuos"
 ---
 
-We provides turnkey services for urban cleaning and waste management. Our projects are based on our experience in managing camps, towns and cities ranging from 3.000 inhabitants to 1.500.000 and itineraries covering surfaces of 300 km2/daily. The total volume of daily waste collection per site averages 1.800 tones.
+Ofrecemos servicios de transporte, almacenamiento, tratamiento y valorización de residuos, así como la reutilización de materias primas, y la deposición final de los desechos de manera controlada y segura. Además, prestamos una gran oferta de servicios de limpiezas industriales de alto valor añadido.
 
-{{< figure src="/images/post/waste_management01.jpg" title="Creating a clean and safe environment is the first step for people’s well-being" >}}
+MMS proporciona servicios completos de limpieza urbana y gestión de residuos. Nuestros proyectos están basados en la propia experiencia en la gestión de campamentos, municipios y ciudades que comprenden entre 3.000 y 1.500.000 habitantes, con recorridos que cubren superficies de 300 km2/diarios. El volumen de recogida de residuos alcanza un promedio de 1.800 toneladas.
 
-Our aim is to protect the environment and the health of the citizens through an innovative, rational and reasonable management of solid and hazardous materials guarantying the trust deposited in our services.
+{{< figure src="/images/post/waste_management01.jpg" title="Nuestro propósito radica en la protección del medio ambiente y la salud de los ciudadanos." >}}
 
-We promote correct management of waste in communities, business and industries using safe and advanced technology during the process: waste collection, transport, storage and disposal.
+Durante todo el proceso realizamos una gestión innovadora, racional y responsable de los residuos sólidos y materias peligrosas para garantizar el óptimo funcionamiento y la confianza depositada en nuestros servicios.
 
+Promovemos la correcta gestión de residuos en comunidades, corporaciones e industrias ya que utilizamos tecnología avanzada y segura durante el proceso: colecta, transporte, almacenaje y desecho de los residuos.
