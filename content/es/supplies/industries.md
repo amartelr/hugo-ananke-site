@@ -1,8 +1,8 @@
 ---
 description: "Facility Management, centrado en sus necesidades"
-weight: 2
+weight: 9
 featured_image: "/images/facility_management.jpg"
-tags: ["sectors"]
+tags: ["supplies"]
 title: "Corporaciones e industrias"
 ---
 

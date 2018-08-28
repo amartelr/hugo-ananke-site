@@ -1,8 +1,8 @@
 ---
 description: "Facility Management, focusing in your necessities"
-weight: 2
+weight: 9
 featured_image: "/images/facility_management.jpg"
-tags: ["sectors"]
+tags: ["supplies"]
 title: "Corporate & Industries"
 ---
 

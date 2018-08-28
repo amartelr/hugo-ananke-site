@@ -1,8 +1,8 @@
 ---
 description: "MMS es líder en la gestión integral de instalaciones en el sector sanitario"
-weight: 3
+weight: 9
 featured_image: "/images/healthcare.jpg"
-tags: ["sectors"]
+tags: ["supplies"]
 title: "Sanidad"
 ---
 - Proporcionamos soluciones de limpieza e higienización bajo un exhaustivo control que garantiza la seguridad. Buscamos los productos más efectivos alrededor del mundo y los distribuimos en cualquier localización geográfica con el fin de alcanzar los requisitos de nuestros clientes.

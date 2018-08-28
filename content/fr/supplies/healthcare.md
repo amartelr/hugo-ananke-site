@@ -1,8 +1,8 @@
 ---
 description: "MMS est un leader mondial dans les services de gestion des installations dans le secteur de la santé."
-weight: 3
+weight: 9
 featured_image: "/images/healthcare.jpg"
-tags: ["sectors"]
+tags: ["supplies"]
 title: "Santé"
 ---
 - Nous fournissons des solutions de nettoyage et désinfectionde la plus haute qualité, fournissant les produits les plus efficaces du monde et livrant à n’importe quel endroit géographique, à dépasser les spécifications de nos clients.

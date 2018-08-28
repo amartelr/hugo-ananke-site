@@ -1,8 +1,8 @@
 ---
 description: "Administración de instalaciones offshore y onshore"
-weight: 1
-featured_image: "/images/sectors/remote_site.jpg"
-tags: ["sectors"]
+weight: 9
+featured_image: "/images/supplies/remote_site.jpg"
+tags: ["supplies"]
 title: "Zonas Remotas"
 ---
 

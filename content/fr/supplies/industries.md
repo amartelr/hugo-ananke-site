@@ -1,8 +1,8 @@
 ---
 description: "Gestion des Installations, adapté à vos besoins"
-weight: 2
+weight: 9
 featured_image: "/images/facility_management.jpg"
-tags: ["sectors"]
+tags: ["supplies"]
 title: "Entreprises & Industries"
 ---
 

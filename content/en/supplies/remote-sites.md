@@ -1,8 +1,8 @@
 ---
 description: "Facility Management offshore & onshore"
-weight: 1
-featured_image: "/images/sectors/remote_site.jpg"
-tags: ["sectors"]
+weight: 9
+featured_image: "/images/supplies/remote_site.jpg"
+tags: ["supplies"]
 title: "Remote Sites"
 ---
 

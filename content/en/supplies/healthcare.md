@@ -1,8 +1,8 @@
 ---
 description: "MMS is a global leader in facilities management services in the Healthcare sector"
-weight: 3
+weight: 9
 featured_image: "/images/healthcare.jpg"
-tags: ["sectors"]
+tags: ["supplies"]
 title: "Healthcare"
 ---
 - We provide cleaning and sanitizing solutions at the highest quality levels, sourcing the most effective products from around the world and delivering them to any geographical location to exceed our customers’ specifications.

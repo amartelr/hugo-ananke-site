@@ -1,4 +1,4 @@
-title = "MA&S"
+title = "Mauritanienne d'Approvisionnement et de Services"
 baseURL = "/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
@@ -37,19 +37,19 @@ enableRobotsTXT = true
 
 [languages]
 [languages.en]
-  title = "MA&S"
+  title = "Mauritanienne d'Approvisionnement et de Services"
   weight = 1
   languageName = "English"
   contentDir = "content/en"
 
 [languages.fr]
-  title = "MA&S"
+  title = "Mauritanienne d'Approvisionnement et de Services"
   weight = 2
   languageName = "Français"
   contentDir = "content/fr"
 
 [languages.es]
-  title = "MA&S"
+  title = "Mauritanienne d'Approvisionnement et de Services"
   weight = 3
   languageName = "Español"
   contentDir = "content/es"
