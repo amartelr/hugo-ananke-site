@@ -1,5 +1,5 @@
 ---
-title: "Mauritania Mining Services"
+title: "Mauritanienne d'Approvisionnement et de Services"
 featured_image: '/images/home.jpg'
 description: "Nous mettons l'accent sur l'application de l'expertise de nos employés à des projets attrayants tout en nous engageant à fournir une technologie de pointe et un engagement absolu envers des pratiques sûres."
 ---

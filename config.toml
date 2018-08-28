@@ -1,4 +1,4 @@
-title = "MMS"
+title = "MA&S"
 baseURL = "/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
@@ -20,7 +20,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = "images/favicon.ico"
-  logo = "/images/logo.svg"
+  logo = "images/mas_logo.png"
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
   twitter = "https://twitter.com/alfredomartel"
@@ -37,19 +37,19 @@ enableRobotsTXT = true
 
 [languages]
 [languages.en]
-  title = "MMS"
+  title = "MA&S"
   weight = 1
   languageName = "English"
   contentDir = "content/en"
 
 [languages.fr]
-  title = "MMS"
+  title = "MA&S"
   weight = 2
   languageName = "Français"
   contentDir = "content/fr"
 
 [languages.es]
-  title = "MMS"
+  title = "MA&S"
   weight = 3
   languageName = "Español"
   contentDir = "content/es"
