@@ -19,6 +19,6 @@ MAS facilitates the advancement of science through services and high quality che
 - Coolants and degreasers
 - Others
 
-{{< figure src="/images/supplies/chemical01.jpg" title="" >}}
+{{< myimage src="/images/supplies/chemical01.jpg" alt="" class="br3 shadow-3">}}
 
 Focus on the essential tasks of your business and let MAS take care of the supply, production, testing and documentation of your chemical products.

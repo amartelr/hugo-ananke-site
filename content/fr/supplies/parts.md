@@ -7,8 +7,8 @@ title: "Véhicules et pièces"
 ---
 Machines neuves et d'occasion pour terrassement, construction de routes, forage, travaux de génie civil.
 
-{{< figure src="/images/supplies/vehicles01.jpg" title="" class="h6 w6 br4 shadow-5">}}
+{{< myimage src="/images/supplies/vehicles01.jpg" alt="" class="br3 shadow-3">}}
 
 Pneus, pour véhicules légers, machinerie lourde, camions de marques différentes.
 
-{{< figure src="/images/supplies/vehicles02.jpg" title="" class="h6 w6 br4 shadow-5">}}
+{{< myimage src="/images/supplies/vehicles02.jpg" alt="" class="br3 shadow-3">}}

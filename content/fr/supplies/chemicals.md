@@ -19,6 +19,6 @@ Le MAS facilite l'avancement de la science grâce à des services et des produit
 - Liquides de refroidissement et dégraissants
 - Autres
 
-{{< figure src="/images/supplies/chemical01.jpg" title="" >}}
+{{< myimage src="/images/supplies/chemical01.jpg" alt="" class="br3 shadow-3">}}
 
 Concentrez-vous sur les tâches essentielles de votre entreprise et laissez MAS prendre en charge la fourniture, la production, les tests et la documentation de vos produits chimiques.

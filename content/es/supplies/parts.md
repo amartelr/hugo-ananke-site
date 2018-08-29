@@ -7,8 +7,8 @@ title: "Vehículos y piezas"
 ---
 Máquinas nuevas y usadas para movimiento de tierras, construcción de carreteras, perforación, obras de ingeniería civil.
 
-{{< figure src="/images/supplies/vehicles01.jpg" title="" class="h6 w6 br4 shadow-5">}}
+{{< myimage src="/images/supplies/vehicles01.jpg" alt="" class="br3 shadow-3">}}
 
 Neumáticos, para vehículos ligeros, maquinaria pesada, camiones de diferentes marcas.
 
-{{< figure src="/images/supplies/vehicles02.jpg" title="" class="h6 w6 br4 shadow-5">}}
+{{< myimage src="/images/supplies/vehicles02.jpg" alt="" class="br3 shadow-3">}}

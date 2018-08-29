@@ -6,10 +6,10 @@ tags: ["supplies"]
 title: "Productos Industriales"
 ---
 
-- Sistemas de Control de Fluidos (válvulas de control, válvulas industriales, válvulas de seguridad e instrumentación industrial) 
+Sistemas de Control de Fluidos (válvulas de control, válvulas industriales, válvulas de seguridad e instrumentación industrial) 
 
-- MAS dispone de un amplio stock de válvulas, equipos de instrumentación industrial y accesorios/repuestos que garantizan el suministro inmediato.
+MAS dispone de un amplio stock de válvulas, equipos de instrumentación industrial y accesorios/repuestos que garantizan el suministro inmediato.
 
-{{< figure src="/images/supplies/industrial01.jpg" title="" >}}
+{{< myimage src="/images/supplies/industrial01.jpg" alt="" class="br3 shadow-3">}}
 
-- Contamos con una gran trayectoria en la prestación de servicios múltiples en fábricas, centros de investigación, plataformas petrolíferas, centrales eléctricas, campamentos y todo tipo de corporaciones nacionales e internacionales.
+Contamos con una gran trayectoria en la prestación de servicios múltiples en fábricas, centros de investigación, plataformas petrolíferas, centrales eléctricas, campamentos y todo tipo de corporaciones nacionales e internacionales.

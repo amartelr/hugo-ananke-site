@@ -7,7 +7,7 @@ title: "Perforación"
 ---
 Ya sea que necesite un contratista de perforación minera de exploración, servicios de agua o perforación de producción, necesita un contratista con una sólida reputación y un historial de seguridad y soluciones innovadoras.
 
-{{< figure src="/images/supplies/drilling01.jpg" title="" >}}
+{{< myimage src="/images/supplies/drilling01.jpg" alt="" class="br3 shadow-3">}}
 
 En muchas minas subterráneas, el desarrollo horizontal es común. La nueva tecnología siempre es bienvenida por las compañías mineras para ayudar a mejorar las tasas de desarrollo.
 

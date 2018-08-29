@@ -9,7 +9,7 @@ MAS offer industrializing construction services providing their customers with c
 
 Constant innovation in this engineering style and the utilization of the most innovative materials guarantee the entire process, from structures’ manufacturing to complete assembly and putting into operation the requested facilities.
 
-{{< figure src="/images/supplies/construction01.jpg" title="Modular camp building" >}}
+{{< myimage src="/images/supplies/construction01.jpg" alt="Modular camp building" class="br3 shadow-3">}}
 
 **Modular constructions** can be adapted economically, quickly and efficiently during the construction process and the company’s facilities can be redistribute or transferred to a new location. The ideal solution to develop your projects over the possibility of adapting your facilities at any time.
 
@@ -17,4 +17,4 @@ Buildings for various uses: **mining infrastructure**, logistical or commercial,
 
 **Personal protective equipment (PPE)**
 
-{{< figure src="/images/supplies/construction02.jpg" title="" >}}
+{{< myimage src="/images/supplies/construction02.jpg" alt="" class="br3 shadow-3">}}

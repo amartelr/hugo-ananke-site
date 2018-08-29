@@ -7,7 +7,7 @@ title: "Traitement des minéraux"
 ---
 Reconnu comme un chef de file mondial des solutions de séparation et de traitement des minéraux, Mineral Technologies propose une gamme complète d’équipements de séparation, d’usines de traitement et de services qui tirent le maximum de valeur des actifs minéraux des clients.
 
-{{< figure src="/images/sectors/mineral_proc01.jpg" title="" >}}
+{{< myimage src="/images/supplies/mineral_proc01.jpg" alt="" class="br3 shadow-3">}}
 
 Des essais métallurgiques à la conception des installations, en passant par la fourniture et la mise en service des équipements (ainsi que des services d'optimisation pour assurer le succès opérationnel continu), nous offrons aux clients la confiance nécessaire pour atteindre la meilleure rentabilité.
 

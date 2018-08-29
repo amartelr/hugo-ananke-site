@@ -20,6 +20,7 @@ MAS facilita el avance de la ciencia mediante servicios y productos químicos de
 - Enfriadores y desengrasantes
 - Otros
 
-{{< figure src="/images/supplies/chemical01.jpg" title="" >}}
+{{< myimage src="/images/supplies/chemical01.jpg" alt="" class="br3 shadow-3">}}
+
 
 Céntrese en las tareas esenciales de su negocio y deje que MAS se ocupe del abastecimiento, producción, pruebas y documentación de sus productos químicos.

@@ -8,8 +8,8 @@ title: "Vehicles & Parts"
 ---
 New and used machines for earthworks, road construction, drilling, civil engineering works.
 
-{{< figure src="/images/supplies/vehicles01.jpg" title="" class="h6 w6 br4 shadow-5">}}
+{{< myimage src="/images/supplies/vehicles01.jpg" alt="" class="br3 shadow-3">}}
 
 Tires, for light vehicles, heavy machinery, trucks of different brands.
 
-{{< figure src="/images/supplies/vehicles02.jpg" title="" class="h6 w6 br4 shadow-5">}}
+{{< myimage src="/images/supplies/vehicles02.jpg" alt="" class="br3 shadow-3">}}

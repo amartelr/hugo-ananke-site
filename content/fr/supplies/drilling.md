@@ -7,7 +7,7 @@ title: "Forage"
 ---
 Que vous ayez besoin d'un entrepreneur en forage d'exploration minière, de services d'eau ou de forage de production, vous avez besoin d'un entrepreneur ayant une solide réputation et des antécédents en matière de sécurité et de solutions novatrices.
 
-{{< figure src="/images/sectors/drilling01.jpg" title="" >}}
+{{< myimage src="/images/supplies/drilling01.jpg" alt="" class="br3 shadow-3">}}
 
 Dans de nombreuses mines souterraines, le développement horizontal est courant. Les nouvelles technologies sont toujours bien accueillies par les sociétés minières pour améliorer les taux de développement.
 

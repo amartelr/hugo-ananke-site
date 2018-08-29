@@ -9,7 +9,8 @@ MAS ofrece servicios de construcción industrializada para proporcionar a sus cl
 
 La innovación constante en este estilo de ingeniería y el uso de los materiales más vanguardistas garantizan todo el proceso, desde la fabricación de las distintas estructuras hasta su completo ensamble y puesta en funcionamiento de las instalaciones demandadas.
 
-{{< figure src="/images/supplies/construction01.jpg" title="Construcción Modular" >}}
+{{< myimage src="/images/supplies/construction01.jpg" alt="Construcción Modular" class="br3 shadow-3">}}
+
 
 Las **construcciones modulares** permiten adaptar de manera económica, rápida y eficaz el proceso constructivo y redistribuir sus instalaciones o trasladarlas a una nueva ubicación. La solución idónea para que sus proyectos evolucionen con la posibilidad de adecuar sus instalaciones en todo momento.
 
@@ -17,4 +18,4 @@ Edificios para diversos usos: **infraestructura minera**, logística o comercial
 
 **Equipos de protección individual (EPI)**
 
-{{< figure src="/images/supplies/construction02.jpg" title="" >}}
+{{< myimage src="/images/supplies/construction02.jpg" alt="" class="br3 shadow-3">}}
