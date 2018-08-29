@@ -7,5 +7,3 @@ type: page
 menu:
   main: {}
 ---
-{{< form-contact action="http://formspree.io/your@email.com"  >}}
-s
