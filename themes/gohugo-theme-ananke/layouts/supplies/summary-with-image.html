@@ -1,19 +1,15 @@
-<article class="bb b--black-10">
-  <a class="db pv4 ph3 ph0-l no-underline dark-gray dim" href="{{ .URL }}">
-    <div class="flex flex-column flex-row-ns">
-      {{ if .Params.featured_image }}
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <img src="{{ .Params.featured_image }}" class="br-100 pa1 ba b--black-10 h4 w5" alt="image from {{ .Title }}">
+<article class="">
+    <a class="grow dib no-underline " href="{{ .URL }}">
+      <header class="pt1 tc-l">
+        <h1 class="dark-blue db f4 ttu tracked-m pa1">{{ .Title }}</h1>
+        {{ if .Params.featured_image }}
+        <div class="ph6">
+          <img src="{{ .Params.featured_image }}" class="br-100 pa1 shadow-1" alt="image from {{ .Title }}">
         </div>
-      {{ end }}
-      <div class="w-100{{ if .Params.featured_image }} w-60-ns pl3-ns{{ end }}">
-        <h1 class="f3 fw1 athelas mt0 lh-title">{{ .Title }}</h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height">
-          {{ .Description }}
-        </div>
-        {{/* TODO: add author
-        <p class="f6 lh-copy mv0">By {{ .Author }}</p> */}}
-      </div>
-    </div>
-  </a>
-</article>
+        {{ end }}
+      </header>
+      <h4 class="h2 pb5 f6 center tc gray measure-narrow">
+        {{ .Description }}
+      </h4>
+    </a>
+  </article>

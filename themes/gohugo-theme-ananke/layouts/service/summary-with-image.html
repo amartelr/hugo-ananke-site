@@ -1,15 +1,15 @@
-<article class="b--black-10">
-  <header class="tc-l">
-    <a class="db no-underline dim" href="{{ .URL }}">
-      <h1 class="f5 ttu tracked mv0 pa1">{{ .Title }}</h1>
+<article class="">
+  <a class="grow dib no-underline " href="{{ .URL }}">
+    <header class="pt1 tc-l">
+      <h1 class="orange f4 ttu tracked-m pa1">{{ .Title }}</h1>
       {{ if .Params.featured_image }}
-      <div class="center w-70-ns">
-        <img src="{{ .Params.featured_image }}" class="br-100 pa2 b--black-10 shadow-5" alt="image from {{ .Title }}">
+      <div class="ph6">
+        <img src="{{ .Params.featured_image }}" class="br-100 pa1 shadow-1" alt="image from {{ .Title }}">
       </div>
       {{ end }}
-  </header>
-  <h3 class=" f6 gray center tc measure-narrow">
-    {{ .Description }}
-  </h3>
+    </header>
+    <h4 class="h2 pb5 f6 center tc gray measure-narrow">
+      {{ .Description }}
+    </h4>
   </a>
 </article>

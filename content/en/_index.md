@@ -1,6 +1,7 @@
 ---
 title: "Mauritanienne d'Approvisionnement et de Services"
 featured_image: '/images/home.jpg'
+color : "yellow"
 description: "Our focus is on applying the expertise of our employees to attractive projects while pledging to deliver leading technology and overriding commitment to safe practices."
 ---
 # Quality Leaders

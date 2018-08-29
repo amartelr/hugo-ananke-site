@@ -2,6 +2,7 @@
 title: "Fournitures"
 weight: 3
 featured_image: '/images/supplies.jpg'
+color : "dark-blue"
 description: MMS est une société de services spécialisée dans les solutions intégrées pour l’industrie hôtelière et la gestion des installations dans un large éventail d’industries, tels que l’industrie minière, Oil & Gas, Santé, Constructions, établissements d’enseignement, Hôtels et Offshore.
 
 
