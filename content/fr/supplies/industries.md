@@ -1,13 +1,15 @@
 ---
-description: "Gestion des Installations, adapté à vos besoins"
-weight: 9
-featured_image: "/images/facility_management.jpg"
+description: "MAS dispose d'un stock important de vannes et d'équipements d'instrumentation industriels"
+weight: 5
+featured_image: "/images/industries.jpg"
 tags: ["supplies"]
-title: "Entreprises & Industries"
+title: "Produits Industriels"
 ---
 
-- MMS sur une longue expérience dans le marché des services de sous-traitance et offre aux entreprises les solutions les plus adéquates et compétitives pour promouvoir vos activités et améliorer vos résultats.
+- Systèmes de contrôle des fluides (vannes de régulation, vannes industrielles, vannes de sécurité et instrumentation industrielle)
 
-- MMS a créé "la solution globale" vers l'unification de tous les services pour le client. La gestion et le développement de vos besoins par nos équipes améliorent votre rentabilité et promouvent votre capacité opérationnelle.
+- MAS dispone de un amplio stock de válvulas, equipos de instrumentación industrial y accesorios/repuestos que garantizan el suministro inmediato.
 
-- Nous pouvons compter sur une longue trajectoire dans la fourniture de services multiples dans les usines, centres de recherche, plates-formes pétrolières, des centrales électriques, des camps et tous les types de sociétés nationales et internationales.
+{{< figure src="/images/supplies/industrial01.jpg" title="" >}}
+
+- Nous avons une grande expérience dans la fourniture de services multiples dans les usines, les centres de recherche, les plates-formes pétrolières, les centrales électriques, les camps et tous les types de sociétés nationales et internationales.

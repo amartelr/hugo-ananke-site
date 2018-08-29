@@ -1,13 +1,15 @@
 ---
-description: "Facility Management, focusing in your necessities"
-weight: 9
-featured_image: "/images/facility_management.jpg"
+description: "MAS has a large stock of valves and industrial instrumentation equipment"
+weight: 5
+featured_image: "/images/industries.jpg"
 tags: ["supplies"]
-title: "Corporate & Industries"
+title: "Industrial Products"
 ---
 
-- MMS on an extended experience in the outsourcing services market and offers companies the most adequate and competitive solutions to promote your activities and improve your results.
+- Fluid Control Systems (control valves, industrial valves, safety valves and industrial instrumentation)
 
-- MMS has created “the global solution” towards the unification of all the services that the client needs through a unique provider. The management and development of your necessities by our teams improves your profitability and promote your operational capacity.
+- MAS dispose d'un stock important de vannes, d'équipements d'instrumentation industriels et d'accessoires/pièces de rechange garantissant un approvisionnement immédiat.
 
-- We can count on a long trajectory in the supply of multiple services in factories, investigation centers, oil platforms, power stations, camps and all types of national and international corporations.
+{{< figure src="/images/supplies/industrial01.jpg" title="" >}}
+
+- We have a great track record in the provision of multiple services in factories, research centers, oil platforms, power plants, camps and all types of national and international corporations.

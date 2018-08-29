@@ -1,13 +1,15 @@
 ---
-description: "Facility Management, centrado en sus necesidades"
-weight: 9
-featured_image: "/images/facility_management.jpg"
+description: "MAS tiene un amplio stock de válvulas y equipos de instrumentación industrial "
+weight: 5
+featured_image: "/images/industries.jpg"
 tags: ["supplies"]
-title: "Corporaciones e industrias"
+title: "Productos Industriales"
 ---
 
-- MMS cuenta con una gran experiencia en el mercado de la externalización de servicios y ofrece a las empresas las soluciones más adecuadas y competitivas para potenciar su actividad y mejorar sus resultados.
+- Sistemas de Control de Fluidos (válvulas de control, válvulas industriales, válvulas de seguridad e instrumentación industrial) 
 
-- MMS ha creado “la solución global” ya que ofrecemos la unificación de todos los servicios que el cliente necesite a través de un único proveedor. La gestión y desarrollo de sus necesidades mediante nuestros equipos mejora su rentabilidad y potencia su capacidad operativa.
+- MAS dispone de un amplio stock de válvulas, equipos de instrumentación industrial y accesorios/repuestos que garantizan el suministro inmediato.
+
+{{< figure src="/images/supplies/industrial01.jpg" title="" >}}
 
 - Contamos con una gran trayectoria en la prestación de servicios múltiples en fábricas, centros de investigación, plataformas petrolíferas, centrales eléctricas, campamentos y todo tipo de corporaciones nacionales e internacionales.

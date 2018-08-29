@@ -13,4 +13,3 @@ description: "Our focus is on applying the expertise of our employees to attract
 
 > Throughout our logistics resources compose for network-chain of offices and domestics warehouses; our experienced team integrates international operations with domestic distribution to attend our customers with Total Satisfaction Guaranteed.
 
-> We have performed complete facilities management, catering and hotel services for many customers. One of our principal lines of business is developing in the oil and gas sector in onshore camps and offshore units. We have provided our services for well renowned oil companies following their projects wherever they have needed with complete satisfaction.

@@ -13,4 +13,3 @@ description: "Nous mettons l'accent sur l'application de l'expertise de nos empl
 
 > Grâce à nos ressources logistiques compose d’une grande chaîne de bureaux et entrepôts; notre équipe expérimentée intègre les opérations internationales avec une distribution locale pour aider nos clients avec une garantie de satisfaction totale. 
 
-> Nous avons effectué la gestión complèted’installation, de la restauration et de l’hôtellerie à de nombreux clients, en développant l’un de nos principaux secteurs d’activité dans le domaine du pétrole et du gaz, en unités offshore et en camps. Nous avons fourni des services aux compagnies pétrolières reconnues, en les accompagnant à chaque projet et répondant aux besoins de nos clients. 

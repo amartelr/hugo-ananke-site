@@ -14,5 +14,3 @@ en cualquier lugar del mundo.
 
 > A través de nuestros recursos logísticos formados por una amplia cadena de oficinas y almacenes;  nuestro experimentado equipo integra las operaciones internacionales junto a la distribución local para asistir a nuestros clientes con total garantía de satisfacción.
 
-> Hemos llevado a cabo la gestión completa de instalaciones, catering y servicios hoteleros para numerosos clientes, desarrollando una de nuestras principales líneas de negocio en el sector del petróleo y el gas, en unidades fuera de costa y en campamentos. Hemos proporcionado servicios para reconocidas compañías petrolíferas, acompañándoles en cada proyecto cuando lo han necesitado, logrando complacer todos sus requisitos.
-
