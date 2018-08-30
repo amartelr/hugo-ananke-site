@@ -33,7 +33,25 @@ enableRobotsTXT = true
   #featured_image = "images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 6
 
-
+[params.cookieconsent]
+  # https://cookieconsent.insites.com/download/
+  # used in layouts/partials/head.cookieconsent.html
+  enable           = true
+  popupBackground  = "#efefef"
+  popupText        = "#404040"
+  buttonBackground = "#8ec760"
+  buttonText       = "#ffffff"
+  #static           = "true"
+  position         = "bottom"
+  #position         = "top"
+  #position         = "bottom-left"
+  #position         = "bottom-right"
+  #position         = "top-left"
+  #position         = "top-right"
+  theme            = "classic"
+  #theme            = "edgeless"
+  #theme            = ""
+  href             = "https://cookiesandyou.com"
 
 [languages]
 [languages.en]

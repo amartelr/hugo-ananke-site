@@ -1,2 +1,12 @@
 - id: related
   translation: "Related"
+
+  # Cookie consent
+- id: cookieMessage
+  translation: This website uses cookies to ensure you get the best experience on our website.
+
+- id: cookieDismiss
+  translation: Got it!
+
+- id: cookieLearn
+  translation: Learn more
