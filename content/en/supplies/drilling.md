@@ -5,9 +5,12 @@ featured_image: "/images/drilling.jpg"
 tags: ["supplies"]
 title: "Drilling"
 ---
-Whether you do a mineral exploration drilling, water services, or production drilling, you need a supplier partner with a rock solid reputation and innovative solutions.
+Whether you do a mineral exploration drilling, water services, or production drilling, you need a supply partner with a rock solid reputation and innovative solutions.
 
-{{< myimage src="/images/supplies/drilling01.jpg" alt="" class="br3 shadow-3">}}
+{{< myimage src="/images/supplies/drilling/drilling01.jpg" alt="" class="br3 shadow-3">}}
+{{< myimage src="/images/supplies/drilling/drilling02.jpg" alt="" class="br3 shadow-3">}}
+{{< myimage src="/images/supplies/drilling/drilling03.jpg" alt="" class="br3 shadow-3">}}
+{{< myimage src="/images/supplies/drilling/drilling04.jpg" alt="" class="br3 shadow-3">}}
 
 New technology is always welcomed by mining companies to help improve development rates.
 
