@@ -5,11 +5,13 @@ featured_image: "/images/drilling.jpg"
 tags: ["supplies"]
 title: "Drilling"
 ---
-Whether you need a mineral exploration drilling contractor, water services, or production drilling, you need a contractor with a rock solid reputation and a track record for safety and innovative solutions. 
+Whether you do a mineral exploration drilling, water services, or production drilling, you need a supplier partner with a rock solid reputation and innovative solutions.
 
 {{< myimage src="/images/supplies/drilling01.jpg" alt="" class="br3 shadow-3">}}
 
-In many underground mines, horizontal development is common. New technology is always welcomed by mining companies to help improve development rates.
+New technology is always welcomed by mining companies to help improve development rates.
+
+At MAS, our focus is on the drilling – where the steel and the ground collide. That’s what we know best. Whatever your operation – forepoling, piling, tunnelling, anchoring or construction – our consumables are designed to give more drilled meters for your money. Every time, day after day. Backed up by a global network, expert support and cutting-edge sensor technology, MAS is at the core of your drilling operation.
 
 We have a wide variety of products in drilling processes:
 
