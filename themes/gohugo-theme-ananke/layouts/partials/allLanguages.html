@@ -1,6 +1,10 @@
-<ul class="pa0 list">
+<ul class="">
     {{ range $.Site.Home.AllTranslations }}
-    <li class="list fw4 pr3"><a class="grow-large  dib f5-ns no-underline white-40" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+    <li class="list w2 pa1 grow-large dib f3-ns no-underline">
+        <a class="" href="{{ .Permalink }}" >
+            <img src="/images/flags/{{ .Site.Language.LanguageName }}.png" >
+        </a>
+    </li>
     {{ end }}
 </ul>
 
