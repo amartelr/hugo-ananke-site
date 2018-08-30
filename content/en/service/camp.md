@@ -1,12 +1,12 @@
 ---
 description: ">> Missing Content <<"
 weight: 2
-featured_image: "/images/no_image.png"
+featured_image: "/images/camp.jpg"
 tags: ["services"]
 title: "Camp"
 ---
 **Missing Content**
 
 
-{{< myimage src="/images/no_image.png" alt="" class="br3 shadow-3">}}
+{{< myimage src="/images/camp.jpg.png" alt="" class="br3 shadow-3">}}
 

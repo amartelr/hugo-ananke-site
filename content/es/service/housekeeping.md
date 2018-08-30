@@ -1,7 +1,7 @@
 ---
 description: ">> Falta Contenido <<"
 weight: 3
-featured_image: "/images/no_image.png"
+featured_image: "/images/housekeeping.jpg"
 tags: ["services"]
 title: "Limpieza"
 ---

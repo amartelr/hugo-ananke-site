@@ -1,7 +1,7 @@
 ---
 description: ">> Falta Contenido <<"
 weight: 2
-featured_image: "/images/no_image.png"
+featured_image: "/images/camp.jpg"
 tags: ["services"]
 title: "Campamento"
 ---

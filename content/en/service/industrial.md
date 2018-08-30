@@ -1,7 +1,7 @@
 ---
 description: ">> Missing Content <<"
 weight: 5
-featured_image: "/images/no_image.png"
+featured_image: "/images/industrial.jpg"
 tags: ["services"]
 title: "Industrial"
 ---

@@ -1,7 +1,7 @@
 ---
 description: ">> Missing Content <<"
 weight: 4
-featured_image: "/images/no_image.png"
+featured_image: "/images/metallic.jpg"
 tags: ["services"]
 title: "Metal Structure"
 ---
