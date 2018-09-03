@@ -1,5 +1,5 @@
 ---
-description: ">> Contenu manquant <<"
+description: ">>Contenu manquant<<"
 weight: 1
 featured_image: "/images/pipeline.jpg"
 tags: ["services"]
