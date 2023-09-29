@@ -2,11 +2,11 @@
 title: "Mauritanienne d'Approvisionnement et de Services"
 featured_image: '/images/home.jpg'
 color : "yellow"
-description: "Our focus is on applying the expertise of our employees to attractive projects while pledging to deliver leading technology and overriding commitment to safe practices."
+description: "Our focus is on Applying the Expertise of our Employees to Attractive projects while pledging to deliver leading technology and overriding commitment to safe practices."
 ---
 # Quality Leaders
 
-> MMS is a **facility services** company and leader in quality management. Our aim is to support our clients, adding value in every project and working with the maximum security to guarantee the satisfaction in each operation we manage around the world.
+> MMS is a **facility services** Company and leader in quality management. Our aim is to support our clients, adding value in every project and working with the maximum security to guarantee the satisfaction in each operation we manage around the world.
 
 > We have created logistics platforms to provide high quality and safe products from top class suppliers to our clients worldwide.
 
