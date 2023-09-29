@@ -6,7 +6,7 @@ description: "Nos enfocamos en aplicar la experiencia de nuestros empleados a pr
 ---
 # Líderes en Calidad
 
-> MMS es una compañía internacional líder en **gestión de servicios** de máxima calidad. Cuidar al cliente y aportar valor en cada proyecto es nuestro objetivo, trabajar con la máxima seguridad para garantizar la satisfacción en todas las operaciones que dirigimos
+> MMS es una Compañía Internacional líder en **gestión de servicios** de máxima calidad. Cuidar al cliente y aportar valor en cada proyecto es nuestro objetivo, trabajar con la máxima seguridad para garantizar la satisfacción en todas las operaciones que dirigimos
 en cualquier lugar del mundo.
 
 > Hemos establecido plataformas logísticas a nivel internacional para proporcionar productos de máxima calidad y seguridad desde los mejores proveedores hasta nuestros clientes.
