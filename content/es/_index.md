@@ -4,7 +4,7 @@ featured_image: '/images/home.jpg'
 color : "yellow"
 description: "Nos enfocamos en aplicar la experiencia de nuestros empleados a proyectos atractivos mientras nos comprometemos a brindar tecnología líder y un compromiso primordial con las prácticas seguras."
 ---
-# Líderes en calidad
+# Líderes en Calidad
 
 > MMS es una compañía internacional líder en **gestión de servicios** de máxima calidad. Cuidar al cliente y aportar valor en cada proyecto es nuestro objetivo, trabajar con la máxima seguridad para garantizar la satisfacción en todas las operaciones que dirigimos
 en cualquier lugar del mundo.
